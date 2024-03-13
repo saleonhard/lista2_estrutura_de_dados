@@ -1,0 +1,18 @@
+0 0 -2 0 0 -3 -4 0 min -1 alt 1 suc 4
+0 0 3 0 0 0 min 4 alt 1 suc 5
+0 min 5 alt 0 suc NaN
+0 min -1 alt 0 suc NaN
+-1 -2 -3 -4 -5 0 min 0 alt 0 suc 1
+1 2 3 4 5 0 min 0 alt 5 suc 1
+1 -2 0 min 4 alt 1 suc 5
+0 -2 -3 -4 -5 0 -6 0 min -3 alt 1 suc -2
+-1 -2 0 min 1 alt 0 suc 1
+0 0 0 -2 -4 0 0 4 0 0 0 0 min 0 alt 2 suc 2
+-1 0 -3 0 0 min 0 alt 0 suc 1
+0 -2 2 -3 3 -4 4 -5 0 0 min -5 alt 4 suc -4
+-1 -2 -3 0 min 1 alt 0 suc 1
+0 0 0 0 0 0 -3 0 0 0 min 34 alt 3 suc 35
+0 0 0 0 3 0 0 0 0 0 0 0 min 35 alt 2 suc 37
+0 0 0 0 0 0 0 -4 0 0 0 0 min 15 alt 3 suc 19
+0 0 0 2 0 0 min 1 alt 2 suc 3
+0 0 0 0 0 0 0 min -31 alt 2 suc -30

@@ -1,0 +1,20 @@
+a 3 r 3 a 5 a 7 a 8 a 1 a 4 a 6 a 1 r 9 a 0 r 7
+a 1 a 2 r 0 r 1
+a 1 a 2 a 3 a 4 a 5 a 6
+r -9 a 2 a 8 a 4 a 3 a -9 a 5 r -9
+a 1 a 1 a 2 a 4 a 5 a 6 r 1
+a -20 a -10 a -30 a -9 a -11 a -29 a -31
+a 90 a 100 a 99 r 99 a 99 r 90 r 90
+a 0 a 1 a 2 a 3 a 4 a 5
+a 1 r 2
+a 100
+a -9 a 9 a -8 a 8 a -7 a 7 r 4 
+r 3 r 2 r 4 r 1
+a 1 a 1 a 1 a 1 a 1 r 1 r 2
+a 4 a 10 a -2 a 9 a 6 r 9 r 4 r 10 r -2 r 0
+a 100 a 1000
+a 50 a 30 a 60 a 29 a 31 a 61 a 59
+a 50 a 30 a 60 a 29 a 31 a 61 a 59 r 50 r 50
+a 50 a 30 a 60 a 31 a 61 a 59 r 30 a 30
+a 50 a 30 a 60 a 29 a 31 a 59 r 60 a 60
+a 50 a 30 a 60 a 29 a 31 a 61 a 59 r 29 r 30 a 40 a 41 a 42 a 100
